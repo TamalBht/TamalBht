@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tamal Bhattacharjee
 - 👀 I’m interested in Web Development,DSA and Competetive coding
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning MERN,C++
 - 📫 How to reach me 
       mail : bht.tamal@gmail.com
 
