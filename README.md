@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Tamal Bhattacharjee
-- 👀 I’m interested in Web Development,DSA and Competetive coding
+- 👋 Hi, I’m Tamal Bhattacharjee!
+- 👀 I’m interested in Web Development,Problem Solving.
 - 🌱 I’m currently learning MERN,C++
 - 📫 How to reach me 
       mail : bht.tamal@gmail.com
