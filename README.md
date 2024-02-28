@@ -25,7 +25,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 30 mins   ██████████████████░░░░░░░   72.16 %
+React JS   5 hrs 30 mins   ██████████████████░░░░░░░   72.16 %
 JavaScript   1 hr 47 mins    ██████░░░░░░░░░░░░░░░░░░░   23.46 %
 Other        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
