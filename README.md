@@ -3,7 +3,7 @@ hi, i'm [Tamal Bhattacharjee](https://tamal-bht-github-io.vercel.app/), a passio
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:bht.tamal@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -25,7 +25,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-React JS   5 hrs 30 mins   ██████████████████░░░░░░░   72.16 %
+React JS     5 hrs 30 mins   ██████████████████░░░░░░░   72.16 %
 JavaScript   1 hr 47 mins    ██████░░░░░░░░░░░░░░░░░░░   23.46 %
 Other        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
