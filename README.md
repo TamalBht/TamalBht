@@ -42,12 +42,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </div>
 
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+
+ <h1>📈Performance Graph</h1>
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TamalBht&bg_color=242424&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
