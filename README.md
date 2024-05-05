@@ -31,19 +31,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 
-📊 **This week I spent my time on:**
-<!--START_SECTION:waka-->
+<div>
+ <h1>📊 My stats</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=TamalBht&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
-```txt
-React JS     5 hrs 30 mins   ██████████████████░░░░░░░   72.16 %
-JavaScript   1 hr 47 mins    ██████░░░░░░░░░░░░░░░░░░░   23.46 %
-Other        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Groovy       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-```
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TamalBht&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=react&hide_border=false&hide_progress=true" height="150" alt="languages graph"  />
 
-<!--END_SECTION:waka-->
+  <img src="https://streak-stats.demolab.com?user=TamalBht&locale=en&mode=daily&theme=github-dark-blue&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 
+</div>
 
 
 🚧 **my todoist stats:**
