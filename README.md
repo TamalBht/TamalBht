@@ -44,7 +44,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
  <h1>📈Performance Graph</h1>
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TamalBht&bg_color=242424&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TamalBht&bg_color=1b181a&color=9e4c98&line=9e4c98&point=999999&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p><h1 style="text-decoration: none; cursor: none;"> 🌐 <span style="color: #00c2e0">Socials:</span></h1></p>
 
+<p style="color: #fff;">
+<a href="https://instagram.com/ethereal.tamal"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/tamal-bhattacharjee-962a1b254/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
