@@ -1,12 +1,12 @@
  <img align="left" alt="GIF" src="./waving-287_256.gif" width="90" height="72" />
-<p align="left">Hi, I'm <a href="https://tamal-bht-github-io.vercel.app/">Tamal Bhattacharjee</a>, a passionate self-taught fullstack developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</p>
+<p align="left">Hi, I'm <a href="https://tamal-bht-github-io.vercel.app/">Tamal Bhattacharjee</a>, a passionate self-taught fullstack developer from India. I am perseuing my bachelors in computer science from Techno Main Salt Lake.My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</p>
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast . I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
   
-- 💼 any freelance work? do reach, [email](mailto:bht.tamal@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 Any freelance work? do reach, [email](mailto:bht.tamal@gmail.com) :)
+- 💬 Ask me about anything, I am happy to help;
 
 <h1>Languages Known</h1> 
 
