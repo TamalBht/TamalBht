@@ -1,5 +1,5 @@
  <img align="left" alt="GIF" src="./waving-287_256.gif" width="80" height="62" />
- Hi, I'm [Tamal Bhattacharjee](https://tamal-bht-github-io.vercel.app/), a passionate self-taught fullstack developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+<br><br/> Hi, I'm [Tamal Bhattacharjee](https://tamal-bht-github-io.vercel.app/), a passionate self-taught fullstack developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
