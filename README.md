@@ -44,8 +44,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
  <h1>📈Performance Graph</h1>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TamalBht&bg_color=1b181a&color=9e4c98&line=9e4c98&point=999999&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<img src ="https://github-readme-activity-graph.vercel.app/graph?username=TamalBht&bg_color=1b181a&color=9e4c98&line=9e4c98&point=999999&area=true&hide_border=true"/>
 <p><h1 style="text-decoration: none; cursor: none;"> 🌐 <span style="color: #00c2e0">Socials:</span></h1></p>
 
 <p style="color: #fff;">
