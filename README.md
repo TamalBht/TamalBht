@@ -1,7 +1,11 @@
  <img align="left" alt="GIF" src="./waving-287_256.gif" width="90" height="72" />
-<p align="left">Hi, I'm <a href="https://tamal-bht-github-io.vercel.app/">Tamal Bhattacharjee</a>, a passionate self-taught fullstack developer from India. I am perseuing my bachelors in computer science from Techno Main Salt Lake.My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</p>
+<p align="left">Hi, I'm <a href="https://tamal-bht-github-io.vercel.app/">Tamal Bhattacharjee</a>, a self-taught Python-focused developer from India, currently pursuing a Bachelor’s degree in Computer Science at Techno Main Salt Lake.
 
-I am also an open-source enthusiast . I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+My primary interest lies in Python backend development, applied AI, and NLP-driven systems. I enjoy building logic-heavy, explainable systems where clean architecture, deterministic behavior, and code quality matter more than black-box abstractions. I’m especially interested in how AI can be combined with rule-based systems to create reliable, production-ready tools.
+
+I actively work on projects involving Python, data processing, NLP pipelines, and system design, with a strong emphasis on modularity, testability, and real-world applicability. I value writing code that is not only functional, but also readable, debuggable, and scalable.
+
+I’m also an open-source enthusiast who has learned extensively from the developer community. I strongly believe in collaborative learning, transparent problem-solving, and knowledge sharing through open-source contributions.</p>
 
 
   
