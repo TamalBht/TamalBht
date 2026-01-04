@@ -1,5 +1,5 @@
  <img align="left" alt="GIF" src="./waving-287_256.gif" width="90" height="72" />
-<p align="left">Hi, I'm <a href="https://tamal-bht-github-io.vercel.app/">Tamal Bhattacharjee</a>, a self-taught Python-focused developer from India, currently pursuing a Bachelor’s degree in Computer Science at Techno Main Salt Lake.
+<p align="left">Hi, I'm Tamal Bhattacharjee, a self-taught Python-focused developer from India, currently pursuing a Bachelor’s degree in Computer Science at Techno Main Salt Lake.
 
 My primary interest lies in Python backend development, applied AI, and NLP-driven systems. I enjoy building logic-heavy, explainable systems where clean architecture, deterministic behavior, and code quality matter more than black-box abstractions. I’m especially interested in how AI can be combined with rule-based systems to create reliable, production-ready tools.
 
